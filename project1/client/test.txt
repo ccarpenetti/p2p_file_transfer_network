@@ -1,0 +1,6 @@
+HELO
+FIND *.h
+FIND *.o
+GET 4
+GET 27
+END
